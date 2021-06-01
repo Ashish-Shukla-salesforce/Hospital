@@ -1,0 +1,79 @@
+c:\users\rishi\documents\visual studio 2013\Projects\RFID-SmartHealthCard\RFID-SmartHealthCard\bin\Debug\RFID-SmartHealthCard.exe.config
+c:\users\rishi\documents\visual studio 2013\Projects\RFID-SmartHealthCard\RFID-SmartHealthCard\bin\Debug\RFID-SmartHealthCard.exe
+c:\users\rishi\documents\visual studio 2013\Projects\RFID-SmartHealthCard\RFID-SmartHealthCard\bin\Debug\RFID-SmartHealthCard.pdb
+c:\users\rishi\documents\visual studio 2013\Projects\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID-SmartHealthCard.csprojResolveAssemblyReference.cache
+c:\users\rishi\documents\visual studio 2013\Projects\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID_SmartHealthCard.Login.resources
+c:\users\rishi\documents\visual studio 2013\Projects\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID_SmartHealthCard.Properties.Resources.resources
+c:\users\rishi\documents\visual studio 2013\Projects\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID-SmartHealthCard.csproj.GenerateResource.Cache
+c:\users\rishi\documents\visual studio 2013\Projects\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID-SmartHealthCard.exe
+c:\users\rishi\documents\visual studio 2013\Projects\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID-SmartHealthCard.pdb
+C:\Users\Rishi\Documents\Visual Studio 2013\Projects\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID_SmartHealthCard.Main.resources
+C:\Users\Rishi\Documents\Visual Studio 2013\Projects\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID_SmartHealthCard.MedicalLog.resources
+C:\Users\Rishi\Documents\Visual Studio 2013\Projects\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID_SmartHealthCard.LogDetails.resources
+C:\Users\Rishi\Documents\Visual Studio 2013\Projects\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID_SmartHealthCard.NewLog.resources
+G:\Rishi Projects\C#\RFID-SmartHealthCard\RFID-SmartHealthCard\bin\Debug\RFID-SmartHealthCard.exe.config
+G:\Rishi Projects\C#\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID-SmartHealthCard.exe
+G:\Rishi Projects\C#\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID-SmartHealthCard.pdb
+G:\Rishi Projects\C#\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID-SmartHealthCard.csprojResolveAssemblyReference.cache
+G:\Rishi Projects\C#\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID_SmartHealthCard.LogDetails.resources
+G:\Rishi Projects\C#\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID_SmartHealthCard.Login.resources
+G:\Rishi Projects\C#\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID_SmartHealthCard.Home.resources
+G:\Rishi Projects\C#\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID_SmartHealthCard.MedicalLog.resources
+G:\Rishi Projects\C#\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID_SmartHealthCard.NewLog.resources
+G:\Rishi Projects\C#\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID_SmartHealthCard.Properties.Resources.resources
+G:\Rishi Projects\C#\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID-SmartHealthCard.csproj.GenerateResource.Cache
+G:\Rishi Projects\C#\RFID-SmartHealthCard\RFID-SmartHealthCard\bin\Debug\RFID-SmartHealthCard.exe
+G:\Rishi Projects\C#\RFID-SmartHealthCard\RFID-SmartHealthCard\bin\Debug\RFID-SmartHealthCard.pdb
+G:\Rishi Projects\C#\RFID-SmartHealthCard\RFID-SmartHealthCard\bin\Debug\MySql.Data.DLL
+G:\Rishi Projects\C#\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID_SmartHealthCard.Patients.resources
+G:\Rishi Projects\C#\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID_SmartHealthCard.Fetch.resources
+G:\Rishi Projects\C#\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID_SmartHealthCard.Settings.resources
+E:\All Projects\2019-20\RFID-SmartHealthCard\RFID-SmartHealthCard\bin\Debug\RFID-SmartHealthCard.exe.config
+E:\All Projects\2019-20\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID-SmartHealthCard.exe
+E:\All Projects\2019-20\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID-SmartHealthCard.pdb
+E:\All Projects\2019-20\RFID-SmartHealthCard\RFID-SmartHealthCard\bin\Debug\RFID-SmartHealthCard.exe
+E:\All Projects\2019-20\RFID-SmartHealthCard\RFID-SmartHealthCard\bin\Debug\RFID-SmartHealthCard.pdb
+E:\All Projects\2019-20\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID-SmartHealthCard.csprojResolveAssemblyReference.cache
+E:\All Projects\2019-20\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID_SmartHealthCard.Fetch.resources
+E:\All Projects\2019-20\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID_SmartHealthCard.Login.resources
+E:\All Projects\2019-20\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID_SmartHealthCard.Home.resources
+E:\All Projects\2019-20\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID_SmartHealthCard.MedicalLog.resources
+E:\All Projects\2019-20\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID_SmartHealthCard.NewLog.resources
+E:\All Projects\2019-20\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID_SmartHealthCard.Patients.resources
+E:\All Projects\2019-20\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID_SmartHealthCard.Properties.Resources.resources
+E:\All Projects\2019-20\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID_SmartHealthCard.Settings.resources
+E:\All Projects\2019-20\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID-SmartHealthCard.csproj.GenerateResource.Cache
+H:\All Projects\2019-20\RFID-SmartHealthCard\RFID-SmartHealthCard\bin\Debug\RFID-SmartHealthCard.exe.config
+H:\All Projects\2019-20\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID-SmartHealthCard.exe
+H:\All Projects\2019-20\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID-SmartHealthCard.pdb
+H:\All Projects\2019-20\RFID-SmartHealthCard\RFID-SmartHealthCard\bin\Debug\RFID-SmartHealthCard.exe
+H:\All Projects\2019-20\RFID-SmartHealthCard\RFID-SmartHealthCard\bin\Debug\RFID-SmartHealthCard.pdb
+H:\All Projects\2019-20\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID-SmartHealthCard.csprojResolveAssemblyReference.cache
+H:\All Projects\2019-20\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID_SmartHealthCard.Fetch.resources
+H:\All Projects\2019-20\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID_SmartHealthCard.Login.resources
+H:\All Projects\2019-20\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID_SmartHealthCard.Home.resources
+H:\All Projects\2019-20\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID_SmartHealthCard.MedicalLog.resources
+H:\All Projects\2019-20\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID_SmartHealthCard.NewLog.resources
+H:\All Projects\2019-20\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID_SmartHealthCard.Patients.resources
+H:\All Projects\2019-20\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID_SmartHealthCard.Properties.Resources.resources
+H:\All Projects\2019-20\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID_SmartHealthCard.Settings.resources
+H:\All Projects\2019-20\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID-SmartHealthCard.csproj.GenerateResource.Cache
+H:\All Projects\2019-20\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID_SmartHealthCard.SearchPatients.resources
+E:\All Projects\2019-20\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID_SmartHealthCard.SearchPatients.resources
+C:\Users\Ashish\Desktop\Project\RFID-SmartHealthCard\RFID-SmartHealthCard\bin\Debug\RFID-SmartHealthCard.exe.config
+C:\Users\Ashish\Desktop\Project\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID-SmartHealthCard.exe
+C:\Users\Ashish\Desktop\Project\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID-SmartHealthCard.pdb
+C:\Users\Ashish\Desktop\Project\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID-SmartHealthCard.csprojResolveAssemblyReference.cache
+C:\Users\Ashish\Desktop\Project\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID_SmartHealthCard.Fetch.resources
+C:\Users\Ashish\Desktop\Project\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID_SmartHealthCard.Login.resources
+C:\Users\Ashish\Desktop\Project\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID_SmartHealthCard.Home.resources
+C:\Users\Ashish\Desktop\Project\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID_SmartHealthCard.MedicalLog.resources
+C:\Users\Ashish\Desktop\Project\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID_SmartHealthCard.NewLog.resources
+C:\Users\Ashish\Desktop\Project\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID_SmartHealthCard.Patients.resources
+C:\Users\Ashish\Desktop\Project\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID_SmartHealthCard.Properties.Resources.resources
+C:\Users\Ashish\Desktop\Project\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID_SmartHealthCard.SearchPatients.resources
+C:\Users\Ashish\Desktop\Project\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID_SmartHealthCard.Settings.resources
+C:\Users\Ashish\Desktop\Project\RFID-SmartHealthCard\RFID-SmartHealthCard\obj\Debug\RFID-SmartHealthCard.csproj.GenerateResource.Cache
+C:\Users\Ashish\Desktop\Project\RFID-SmartHealthCard\RFID-SmartHealthCard\bin\Debug\RFID-SmartHealthCard.exe
+C:\Users\Ashish\Desktop\Project\RFID-SmartHealthCard\RFID-SmartHealthCard\bin\Debug\RFID-SmartHealthCard.pdb
+C:\Users\Ashish\Desktop\Project\RFID-SmartHealthCard\RFID-SmartHealthCard\bin\Debug\DevComponents.DotNetBar2.dll
